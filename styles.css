@@ -1,0 +1,77 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    margin-top: 100px;
+    margin-left: 500px;
+    padding: 40px;
+    background-image: url(./samara-doole-peaTniZsUQs-unsplash.jpg);
+    width: 350px;
+    height: 400px;
+    border-radius: 10px;
+    
+    
+}
+.x{
+    margin-left: 350px;
+    height: 40px;
+    border-radius: 5px;
+}
+.be{
+    font-size: 30px;
+    text-align: center;
+}
+.sign{
+    padding-top: 10px;
+    font-size: 17px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+.Email{
+    width: 344px;
+    border-radius: 5px;
+    height: 30px;
+    
+}
+.flex{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    }
+.date{
+    height: 30px;
+    width: 165px;
+    border-radius: 5px;
+}
+.shop{
+    height: 30px;
+    width: 170px;
+    border-radius: 5px;
+}
+
+label{
+    font-size: 18px;
+}
+
+.up{
+    margin-top: 30px;
+    background-color: black;
+    text-align: center;
+    margin-left: 30px;
+    width: 290px;
+    height: 28px;
+    color:  white;;
+    border: none;
+    border-radius: 3px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: underline;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
